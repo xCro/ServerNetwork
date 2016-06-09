@@ -1,0 +1,9 @@
+name: BungeeCore
+main: ProxyPlugin
+version: 1.0
+author: Jake(BungeeCore)
+commands:
+  ShowBar:
+    description: Shows bar!
+  HideBar:
+    description: Hides bar!
